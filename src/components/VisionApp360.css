@@ -1,0 +1,35 @@
+.vision-360-app {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+    background: #000;
+}
+
+.canvas-container {
+    width: 100%;
+    height: 100%;
+}
+
+.hotpot-simple {
+    cursor: pointer;
+}
+
+.footstep-img {
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+
+.logo-container {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+    z-index: 9999;
+}
+
+.logo {
+    width: 150px;
+    height: 150px;
+}
